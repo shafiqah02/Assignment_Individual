@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Electrical Calculator</string>
+    <string name="copyright">Copyright &#169; 2024 Shafiqah</string>
+    <string name="info"><b>Developer details:</b></string>
+    <string name="name">Name: NORSHAFIQAH BINTI RADZUAN</string>
+    <string name="group">Group: RCS2405A</string>
+    <string name="studentNo">Student Number: 2023301359</string>
+    <string name="programmeCode">Programme code: CS240</string>
+    <string name="information">Information: This mobile application is used to calculate for estimating electricity bills.</string>
+    <string name="link">
+        Click <a href=  "https://www.youtube.com/"> here</a> to open youtube.
+    </string>
+</resources>
